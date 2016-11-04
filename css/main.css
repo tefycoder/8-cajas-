@@ -1,0 +1,30 @@
+.uno, .dos, .tres, .cuatro, .cinco, .seis, .siete, .ocho{
+    
+    width: 100px;
+    height:100px;
+    margin-bottom: 10px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+
+.dos{
+    
+    height: 105px;
+    width: 350px;
+    padding: 10px;
+    
+      
+}
+.tres, .cuatro, .cinco {
+     display: inline-block;
+    
+}
+.tres, .cuatro{
+     margin-right: 10px;
+    
+}
+
+.seis, .siete{
+     display: inline-block;
+     margin-right: 5px;
+}
